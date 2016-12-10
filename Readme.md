@@ -1,6 +1,6 @@
 #Button Mania
 
-This is a simple yet addictive JavaScript Game. The game has 3 levels - hard, medium and easy (there is a corresponding html file for each level). Just open the html file in your favourite browser and enjoy the GAME. 
+This is a simple yet addictive JavaScript game. The game has 3 levels - hard, medium and easy (there is a corresponding html file for each level). Just open the html file in your favourite browser and enjoy the GAME. 
 
 **Instructions**
 
