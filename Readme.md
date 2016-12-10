@@ -11,9 +11,6 @@ This is a simple yet addictive JavaScript Game. The game has 3 levels - hard, me
 
 	(ii) If the value of the tile is 0, then the value after the click will be 3.
 
+You can find the demo of the medium level of the game [here] (http://htmlpreview.github.io/?https://github.com/HarishFulara07/Button-Mania/blob/master/Medium.html)
 
 HOPE YOU ENJOY THE GAME!!!!
-
-:simple_smile:
-
-You can find the demo of the medium level of the game [here] (http://htmlpreview.github.io/?https://github.com/HarishFulara07/Button-Mania/blob/master/Medium.html)
