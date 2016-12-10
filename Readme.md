@@ -15,6 +15,6 @@ This is a simple yet addictive JavaScript game. The game has 3 levels - hard, me
 
 You can find the demo of the medium level of the game [here] (http://htmlpreview.github.io/?https://github.com/HarishFulara07/Button-Mania/blob/master/Medium.html)
 
-You can play this game [here] (https://letsplayagame.herokuapp.com/gamebuttonmania/)
+You can play the medium level of the game [here] (https://letsplayagame.herokuapp.com/gamebuttonmania/)
 
 You can play other games that i made [here] (https://letsplayagame.herokuapp.com/games/)
