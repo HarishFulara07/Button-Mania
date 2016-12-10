@@ -13,3 +13,6 @@ Instructions
 HOPE YOU ENJOY THE GAME!!!!
 
 :-)
+
+
+You can find the demo of the medium level of the game here: http://htmlpreview.github.io/?https://github.com/HarishFulara07/Button-Mania/blob/master/Medium.html
